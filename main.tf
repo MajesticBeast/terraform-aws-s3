@@ -3,7 +3,7 @@
  */
 
 # Author: MajesticBeast
-# Created: 2018-08-01
+# Created: 2019-08-01
 # Description: This module creates an S3 bucket in AWS
 
 resource "random_pet" "bucket_suffix" {
